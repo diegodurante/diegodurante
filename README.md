@@ -1,6 +1,6 @@
 ### Hi there, I'm Diego 👋
 
-I founded Leevia in 2013 holding the role of <b>Chief Technology Officer</b> and in 2021 it was acquired by Advice Group Spa. Leevia is a <b>MarTech</b> company, a <b>Software as a Service (SaaS)</b> that allows big brands and media agencies to engage their communities with online contests. It is a B2B2C product.
+I founded Leevia in 2013 holding the role of <b>Chief Technology Officer</b> and in 2021 it was acquired by Advice Group Spa (exit). Leevia is a <b>MarTech</b> company, a <b>Software as a Service (SaaS)</b> that allows big brands and media agencies to engage their communities with online contests. It is a B2B2C product.
 
 I'm a passionate professional about <b>product lifecycle management</b> with frontline experience in <b>SaaS products and B2B2C industry</b>. I'm excited about <b>building new digital products</b> where cutting edge technologies and new business models are involved. I have experience in the <b>full lifecycle of complex products</b> and the restrictive requirements of time and resources of a <b>new product launch</b>.
 
