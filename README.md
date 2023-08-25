@@ -1,14 +1,11 @@
 ### Hi there, I'm Diego 👋
 
-I founded Leevia in 2013 holding the role of <b>Chief Technology Officer</b> and in 2021 it was acquired by Advice Group Spa (exit). Leevia is a <b>MarTech</b> company, a <b>Software as a Service (SaaS)</b> that allows big brands and media agencies to engage their communities with online contests. It is a B2B2C product.
+In 2013 I founded Leevia holding the role of **Chief Technology Officer**. In ten years we built a robust and profitable business in the **MarTech** industry bringing to the market our product: a proprietary **Software as a Service** dedicated to brands who need to manage online contests to engage their communities making data enrichment and lead generation. Hundreds of the most important brands from many different industries believed in us, we won several awards in both startup and marketing fields and we ran thousands of contests where millions of users participated from all over the world. After ten years **the company was acquired** by one of our most important competitors.
 
-I'm a passionate professional about <b>product lifecycle management</b> with frontline experience in <b>SaaS products and B2B2C industry</b>. I'm excited about <b>building new digital products</b> where cutting edge technologies and new business models are involved. I have experience in the <b>full lifecycle of complex products</b> and the restrictive requirements of time and resources of a <b>new product launch</b>.
+I'm a passionate professional about product lifecycle management with frontline experience in **SaaS** products and **both B2B and B2C industries**. I'm excited about building new digital products where cutting edge technologies and new business models are involved. I have experience in the full lifecycle of complex products and the restrictive requirements of time and resources of a new product launch.
+I care about building empowered teams within a great company culture, where people are trusted and encouraged to take initiative, share feedback and continually learn. I love working with **agile methodologies** and I am **detail-oriented** with a strong focus on process improvement and clear communication. I also love solving problems, analysing data and taking decisions with a **data-driven approach**. I believe in innovation, continuous improvement, automation, code quality and I worked with the best technologies such as Docker, Kubernetes, Amazon Web Services, Linux, Git, Ruby, Rails, JavaScript and more.
 
-As a fan of <b>Lean Startup</b> and <b>Customer Development methodologies</b> as main strategies to build products and companies on nowadays, I enjoyed in the past to <b>mentor some startups</b> on these subjects.
-
-<b>I believe in Agile Methodologies, Clean Code, Test Automation, Continuous Integration, Continuous Delivery and I work with cutting edge technologies such as Docker, Kubernetes, Amazon Web Services, Linux, Git, Ruby, Rails, JavaScript and more.</b>
-
-Specialties: Product Management, Product Development, Web Development, Agile Methodologies, Software Engineering, SaaS, DevOps, Cloud Computing, Team Building, Team Management, Lean Startup, User Experience, Mobile & Web Applications, Database Design, Test Automation, Continuous Integration, Continuous Delivery, Infrastructure Monitoring, Security and Compliance, Digital Marketing, Business Strategy, Data-Driven Decisions.
+Specialties: Software Engineering, Engineering Management, Product Management, Team Management, Lean Startup, Agile Methodologies, Web Development, SaaS, Digital Marketing, Business Strategy.
 
 ### Connect with me:
 [<img align="left" alt="Diego Durante | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
