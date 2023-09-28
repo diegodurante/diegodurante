@@ -1,8 +1,8 @@
 ### Hi there, I'm Diego 👋
 
-As a **SaaS Startup Founder** and **CTO**, I led a successful company in the **MarTech** industry for ten years, creating a proprietary software platform for online contests that helped hundreds of top international brands engage their communities. I oversaw the entire **product and software lifecycle**, from ideation to development to delivery, fostering innovation and quality. I'm proud to have **built and sold a profitable SaaS business** in a competitive and dynamic market.
+As a **SaaS Startup Founder** and **CTO**, I led a successful company in the **MarTech** industry for ten years, until **the company was acquired** by one of our major competitors.
 
-I have extensive experience in **software development**, **team management** and **product management**, working with **agile methodologies** and cutting-edge technologies. I designed and managed a cloud architecture capable of serving a SaaS used by **millions of users** from different parts of the world, ensuring scalability, reliability and security. I built and managed empowered teams, where people were trusted and encouraged to take initiative, share feedback and continuously learn. I'm passionate about innovation, continuous improvement, automation and code quality.
+I have extensive experience in **product and software lifecycle management** in particular in **B2B SaaS**, working with **agile methodologies** and cutting-edge technologies. I built a cloud architecture capable of serving a SaaS used by **millions of users worldwide**, ensuring scalability, reliability and security. I **managed empowered teams**, where people were trusted and encouraged to take initiative, share feedback and continuously learn. I'm passionate about innovation, continuous improvement, automation and **lean software development**.
 
 **Specialties:** Software Engineering, Engineering Management, Product Management, Team Management, Lean Startup, Agile Methodologies, Web Development, SaaS, Digital Marketing, Business Strategy.
 
